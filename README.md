@@ -1,2 +1,2 @@
 # jjsson
-yet another lightweight json parser
+a simple lightweight json parser
