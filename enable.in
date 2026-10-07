@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export PATH="@INSTALL_DIR_ABSOLUTE@/bin:$PATH"
+export PKG_CONFIG_PATH="@INSTALL_DIR_ABSOLUTE@/lib/pkgconfig:$PKG_CONFIG_PATH"

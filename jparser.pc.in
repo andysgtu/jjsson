@@ -1,0 +1,7 @@
+prefix=@JPARSER_INSTALL_DIR@
+
+Name: jparser
+Description: JSON Parser library for C++
+Version: @JPARSER_VERSION@
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ljparser
